@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">paper_scissor_stone_Kotlin</string>
+    <string name="請輸入玩家姓名" />
+    <string name="請輸入姓名以開始遊戲" />
+    <string name="剪刀">剪刀</string>
+    <string name="石頭">石頭</string>
+    <string name="布">布</string>
+    <string name="猜拳">猜拳</string>
+</resources>
